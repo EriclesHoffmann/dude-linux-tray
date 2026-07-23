@@ -1,0 +1,12 @@
+# Personal / secrets — never commit
+position.conf
+*.viw
+*.bak*
+.env
+*.exe
+wineprefixes/
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+/tmp/

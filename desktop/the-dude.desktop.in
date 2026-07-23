@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=The Dude
+Comment=MikroTik The Dude Client (Wine) with Linux tray flag
+Exec=@HOME@/bin/the-dude.sh
+Icon=@HOME@/.local/share/icons/hicolor/32x32/apps/the-dude-flag-green.png
+Terminal=false
+Categories=Network;Monitor;
+StartupNotify=true
+StartupWMClass=dude.exe

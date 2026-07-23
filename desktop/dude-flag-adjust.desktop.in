@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Adjust Dude Flag
+Name[pt_BR]=Ajustar bandeira (The Dude)
+Comment=Move The Dude tray flag on the panel
+Comment[pt_BR]=Mover a bandeirinha do The Dude na barra
+Exec=@HOME@/bin/dude-flag-adjust.py
+Icon=@HOME@/.local/share/icons/hicolor/32x32/apps/the-dude-flag-green.png
+Terminal=false
+Categories=Utility;Settings;
+StartupNotify=true
