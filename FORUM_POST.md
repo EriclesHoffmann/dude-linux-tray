@@ -1,6 +1,6 @@
 # Forum post (MikroTik — The Dude)
 
-Copy/paste into a new topic under **The Dude**. Replace `EriclesHoffmann` with your GitHub username after the repo is public.
+Copy/paste into a new topic under **The Dude**.
 
 ---
 
